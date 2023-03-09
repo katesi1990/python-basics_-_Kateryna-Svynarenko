@@ -1,0 +1,10 @@
+Ivanov: 34899
+Petrov: 23456
+Sidorov: 50489
+Kovalchuk: 47890
+Grishenko: 32987
+Maslov: 19007
+Golub: 31098
+Vasiliev: 67890
+Fedorov: 19345
+Litvin: 77234
